@@ -1,5 +1,8 @@
 # Angular Templates
 
+## Live Server
+https://main--euphonious-granita-e9b893.netlify.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
